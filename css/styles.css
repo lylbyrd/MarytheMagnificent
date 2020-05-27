@@ -1,0 +1,26 @@
+.marybox{
+	background-color: #96de6d;
+	width: 800px;
+	padding: 50px;
+	border: 20px double #f7fa9d;	
+	box-sizing: border-box;
+	margin: 40px auto;
+	text-align: center;
+}
+h2{
+	padding: 20px;
+	font-size: 60px;
+	font-style: italic;
+	padding: 20px;
+	margin: 0 auto;
+	color:#f7fa9d;
+	border: 20px double #f7fa9d;
+	background-color: #79b357;
+	font-family: 'Chelsea Market', cursive;
+}
+.marypic{
+	margin: 20px;
+	border-radius: 250px;
+    width: 300px;
+    border: 20px double #f7fa9d;
+}
